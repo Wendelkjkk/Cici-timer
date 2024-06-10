@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+#countdown {
+  font-size: 48px;
+  margin-top: 30px;
+  color: #ff69b4; /* Rosa */
+  border: 2px solid #ff69b4; /* Rosa */
+  padding: 20px 30px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0px 4px 6px rgba(255, 105, 180, 0.4); /* Rosa */
+}
